@@ -5,6 +5,7 @@
 *
 *   Market closes 5pm EST
 *   Data from 1st Jan 2014
+*   Question closed.
 */
 
 
